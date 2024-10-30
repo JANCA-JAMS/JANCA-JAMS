@@ -8,12 +8,12 @@
 
 - 🌱 I’m expanding my expertise in:
 
-  *Advanced SQL for data extraction and management
+  *Advanced SQL for data extraction and management                                                                                                                                                                               
   *Deepening my AI skills in data analytics and business intelligence
   
 - 📫 How to reach me
-    LinkedIn: https://www.linkedin.com/in/jancarlo-jams-martinez-sequeira-b3640224b/
-    Social media: https://beacons.ai/data_jams
+    LinkedIn: https://www.linkedin.com/in/jancarlo-jams-martinez-sequeira-b3640224b/                                                                                                                                             
+    Social media: https://beacons.ai/data_jams                                                                                                                                                                                   
     Email: 	Info.DATA.JAMS@gmail.com
   
 
