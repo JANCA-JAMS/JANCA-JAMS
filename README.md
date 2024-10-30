@@ -1,4 +1,4 @@
-- Hi, I’m @JANCA-JAMS , a passionate Business Administration student and founder of the brand DATA JAMS. With a deep interest in data analysis and visualization, I'm on a continuous journey of learning and personal growth. Through my YouTube channel, "DATA JAMS", I share insights into dashboards and data analytics.
+- Hi, I’m @JANCA-JAMS , a passionate Business/Data Analyst and founder of the brand DATA JAMS. With a deep interest in data analysis and visualization, I'm on a continuous journey of learning and personal growth. Through my YouTube channel, "DATA JAMS", I share insights into dashboards and data analytics.
   
 - 👀 I’m particularly interested in:
 
