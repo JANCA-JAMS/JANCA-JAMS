@@ -2,8 +2,8 @@
   
 - 👀 I’m particularly interested in:
 
-  *Financial Data Analysis and data-driven decision-making.
-  *Dashboard Creation with Power BI and Excel.
+  *Financial Data Analysis and data-driven decision-making.                                                                                                                                                                      
+  *Dashboard Creation with Power BI and Excel.                                                                                                                                                                                   
   *Building connections and collaborating on impactful data projects.
 
 - 🌱 I’m expanding my expertise in:
